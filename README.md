@@ -1,12 +1,12 @@
 ### Hi there, I am Harikrishnan B 👋
 
-![Profile views counter](https://HarikrishnanB.dev/github-profile-view-counter.svg)
+.......................................................................
 
-#### I'm a Graphic Designer | Developer .
+#### I'm a Graphic Designer | Developer 
 
-- 🏢 I'm currently working as **Technical Analyst @IEDCBOOTCAMPCEC **
-- ⚙️ I use daily: `.ai`, `.psd`, `.html`, `.css`, `.svg`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🏢 I'm currently working as **Technical Analyst at IEDC BOOTCAMP CEC**
+- ⚙️ I use daily: `.ai`, `.psd`, `.html`, `.css`.
+- 🌍 I'm mostly active within the **Instagram & Behance**
+- 💬 Ping me about **ui ux design**, **design thinking**, **development**,
+- 📫 Reach me: [linkedin.com/in/harikrishnan-b-52229618b](https://www.linkedin.com/in/harikrishnan-b-52229618b/)
+- ⚡️ Fun fact: I'm a keen observer 
