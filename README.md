@@ -1,6 +1,6 @@
 ### Hi there, I am Harikrishnan B 👋
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+![Profile views counter](https://HarikrishnanB.dev/github-profile-view-counter.svg)
 
 #### I'm a Graphic Designer | Developer .
 
