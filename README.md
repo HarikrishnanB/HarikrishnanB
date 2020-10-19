@@ -9,6 +9,6 @@
 - 🌍 I'm mostly active within the **Instagram, LinkedIn & Behance**
 - 💬 Ping me about **ui ux design**, **design thinking**, **development**,
 - 📫 Reach me: [linkedin.com/in/harikrishnan-b-52229618b](https://www.linkedin.com/in/harikrishnan-b-52229618b/)
-- ⚡️ Fun fact: I'm a Observer 
+- ⚡️ Fun fact: I'm a  
 
 
