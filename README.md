@@ -11,4 +11,7 @@
 - 📫 Reach me: [linkedin.com/in/harikrishnan-b-52229618b](https://www.linkedin.com/in/harikrishnan-b-52229618b/)
 - ⚡️ Fun fact: I'm a  
 
+### Hit me up:
+[<img align="left" alt=" george-mammen | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="george-mammen | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
