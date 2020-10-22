@@ -25,9 +25,9 @@ Hi, I'm a Graphical designer and a Developer 🚀 from India. I'm a currently pa
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on app dev. 
+- 👨🏽‍💻 I’m currently working on an app.
 - 🌱 I’m currently learning C and Java; 
-- 💬 Ask me about anything related to designing, I am happy to help;
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harikrishnan-b-52229618b);
 
 
