@@ -9,29 +9,26 @@
 <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Harikrishnan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/_hari_plr/">
   <img align="left" alt="Harikrishnan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Harikrishnan's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-
 
 
 
 <br />
 
+
 Hi, I'm HARIKRISHNAN B, a Graphical designer and a Developer 🚀 from India. I'm a currently passionate in UI UX designing and is exploring its principles & methodology inorder to create life at interactive designes. Beside's designing, I also enjoy learning web and app development.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="  https://media.giphy.com/media/l4FGDAx6u3hthMhgI/giphy.gif/>
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :app:;
+- 👨🏽‍💻 I’m currently working on something cool 
 - 🌱 I’m currently learning java and C; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Harikrishnan B](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📫 How to reach me: [Harikrishnan B](https://www.linkedin.com/in/harikrishnan-b-52229618b);
+- 📝[Resume]()
 
 **Languages and Tools:**  
 
