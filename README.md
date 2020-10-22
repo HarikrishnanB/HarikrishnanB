@@ -1,10 +1,7 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media4.giphy.com/media/l4FGDAx6u3hthMhgI/200w.webp?cid=ecf05e47wh10x7fuiy5qo3jkwz36nf20y6ml7mluxm314lqu&rid=200w.webp" width="25px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,11 +18,11 @@
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) Beside's programming, I enjoy eating food and traveling.
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm HARIKRISHNAN B, a Graphical designer who is passionate in UI UX Dessigning. 🚀 from India. I'm a currently trying to study the design concept and bring life to design making it more interactive .
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -50,23 +47,8 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Vue.js       3 hrs 24 mins   █████████████░░░░░░░░░░░░   52.55 % 
-C++          1 hr 52 mins    ███████▒░░░░░░░░░░░░░░░░░   28.83 % 
-JavaScript   1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-```
-<!--END_SECTION:waka-->
 
 
 
 
-<details>
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
