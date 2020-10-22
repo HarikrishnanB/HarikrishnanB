@@ -1,8 +1,8 @@
 ### Hey there, I am Harikrishnan B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <br>
-<a href="https://discord.gg">
-  <img align="left" alt="Harikrishnan's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://www.behance.net/harikrishnanb2>
+  <img align="left" alt="Harikrishnan's behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/harikrishnan-b-52229618b/">
@@ -28,8 +28,8 @@ Hi, I'm a Graphical designer and a Developer 🚀 from India. I'm a currently pa
 - 👨🏽‍💻 I’m currently working on something cool  
 - 🌱 I’m currently learning Java and C; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Harikrishnan B](https://www.linkedin.com/in/harikrishnan-b-52229618b);
-- 📝[Resume]()
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harikrishnan-b-52229618b);
+
 
 **Languages and Tools:**  
 
