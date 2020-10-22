@@ -18,9 +18,10 @@
 
 
 <br />
+<br>
 
 
-Hi, I'm HARIKRISHNAN B, a Graphical designer and a Developer 🚀 from India. I'm a currently passionate in UI UX designing and is exploring its principles & methodology inorder to create life at interactive designes. Beside's designing, I also enjoy learning web and app development.
+Hi, I'm ### HARIKRISHNAN B, a Graphical designer and a Developer 🚀 from India. I'm a currently passionate in UI UX designing and is exploring its principles & methodology inorder to create life at interactive designes. Beside's designing, I also enjoy learning web and app development.
 
 
   
