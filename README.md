@@ -1,5 +1,7 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+<br>
+<a href="https://discord.gg">
   <img align="left" alt="Harikrishnan's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
@@ -20,7 +22,7 @@
 
 Hi, I'm HARIKRISHNAN B, a Graphical designer and a Developer 🚀 from India. I'm a currently passionate in UI UX designing and is exploring its principles & methodology inorder to create life at interactive designes. Beside's designing, I also enjoy learning web and app development.
 
-  <img align="right" alt="GIF" src="  https://media.giphy.com/media/l4FGDAx6u3hthMhgI/giphy.gif/>
+
   
 **Talking about Personal Stuffs:**
 
